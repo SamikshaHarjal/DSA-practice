@@ -43,6 +43,7 @@
 | [0009-palindrome-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
