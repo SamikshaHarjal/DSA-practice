@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0040-combination-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
