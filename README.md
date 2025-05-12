@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
