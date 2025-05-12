@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
