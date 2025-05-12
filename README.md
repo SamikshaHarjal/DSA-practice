@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 | ------- |
 | [0015-3sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0016-3sum-closest) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
