@@ -18,6 +18,7 @@
 | [0040-combination-sum-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0007-reverse-integer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
