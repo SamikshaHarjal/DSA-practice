@@ -1,18 +1,12 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int k=m+n-1;//end of array nums1 ptr
-        int i=m-1;//nums1 ptr till its initailly filled
-        int j=n-1;//end of nums 2 ptr
- while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[k--] = nums1[i--];//filling array from the back
-            } else {
-                nums1[k--] = nums2[j--];
-            }
+        int index=m+n-1,bp1=m-1,bp2=n-1;
+        while(bp1>=0 && bp2>=0){
+            if(nums1[bp1] > nums2[bp2]) nums1[index] = nums1[bp1--];
+            else nums1[index] = nums2[bp2--];
+            index--;
         }
-         while (j >= 0) {
-            nums1[k--] = nums2[j--];//if nums2 isnt empty fill nums 1 with nums 2
-        }
-       
-    }
+        while(bp1>=0) nums1[index--] = nums1[bp1--];
+        while(bp2>=0) nums1[index--] = nums2[bp2--];
+    } 
 }
