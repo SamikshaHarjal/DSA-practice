@@ -129,6 +129,7 @@
 | [0053-maximum-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0136-single-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
