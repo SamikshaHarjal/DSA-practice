@@ -42,6 +42,7 @@
 | [0036-valid-sudoku](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0061-rotate-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
