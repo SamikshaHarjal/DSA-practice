@@ -41,6 +41,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
