@@ -1,12 +1,21 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String s=Integer.toString(x);
-        int j=s.length()-1;
-        for(int i=0;i<s.length()/2;i++){
-        if(s.charAt(i)!=s.charAt(j)){
+        if(x<0){
             return false;
         }
-        j--;
+        List<Integer>li=new ArrayList<>();
+        while(x!=0){
+int a=x%10;
+li.add(a);
+x/=10;
+        }
+        int l=0,r=li.size()-1;
+        while(l<r){
+            if(li.get(l)!=li.get(r)){
+                return false;
+            }
+            l++;
+            r--;
         }
         return true;
     }
