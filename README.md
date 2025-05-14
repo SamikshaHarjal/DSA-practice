@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
