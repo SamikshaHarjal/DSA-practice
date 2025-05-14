@@ -27,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0042-trapping-rain-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Greedy
 |  |
 | ------- |
