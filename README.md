@@ -82,6 +82,7 @@
 | [0038-count-and-say](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
