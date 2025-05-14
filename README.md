@@ -56,6 +56,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0016-3sum-closest](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +156,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
