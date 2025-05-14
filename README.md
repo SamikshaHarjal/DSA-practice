@@ -23,6 +23,7 @@
 | [0054-spiral-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0029-divide-two-integers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
