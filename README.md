@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0036-valid-sudoku](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,4 +148,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
