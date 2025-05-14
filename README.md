@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0048-rotate-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
