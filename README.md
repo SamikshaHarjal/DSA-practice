@@ -53,6 +53,7 @@
 | [0066-plus-one](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 | [0054-spiral-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
