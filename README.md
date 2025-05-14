@@ -33,6 +33,7 @@
 | [0118-pascals-triangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0029-divide-two-integers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0137-single-number-ii) |
 ## Matrix
 |  |
 | ------- |
