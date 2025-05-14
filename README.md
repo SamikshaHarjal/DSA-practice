@@ -40,6 +40,7 @@
 | [0164-maximum-gap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0058-length-of-last-word](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 | [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
