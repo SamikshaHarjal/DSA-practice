@@ -83,6 +83,7 @@
 | [0069-sqrtx](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
+| [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
