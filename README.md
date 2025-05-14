@@ -30,6 +30,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0053-maximum-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0118-pascals-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
