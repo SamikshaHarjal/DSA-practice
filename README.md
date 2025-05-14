@@ -44,6 +44,7 @@
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
