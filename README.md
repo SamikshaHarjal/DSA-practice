@@ -38,6 +38,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
