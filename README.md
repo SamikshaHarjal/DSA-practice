@@ -54,6 +54,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -78,6 +79,7 @@
 | [0567-permutation-in-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -176,6 +178,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0680-valid-palindrome-ii) |
+| [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
