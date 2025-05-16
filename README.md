@@ -99,6 +99,7 @@
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -358,6 +361,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0062-unique-paths) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Geometry
 |  |
 | ------- |
