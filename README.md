@@ -56,6 +56,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
+| [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -251,6 +252,7 @@
 | [0633-sum-of-square-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [0085-maximal-rectangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
+| [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -379,6 +383,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
