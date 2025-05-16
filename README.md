@@ -157,6 +157,7 @@
 | [0520-detect-capital](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0541-reverse-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -219,6 +220,7 @@
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
 | ------- |
