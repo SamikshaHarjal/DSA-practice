@@ -77,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
