@@ -46,6 +46,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -110,6 +111,7 @@
 | [0326-power-of-three](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0367-valid-perfect-square) |
+| [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -224,6 +226,7 @@
 | [0164-maximum-gap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
+| [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
 ## Stack
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [0152-maximum-product-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0264-ugly-number-ii) |
+| [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
