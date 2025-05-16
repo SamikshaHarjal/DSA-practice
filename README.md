@@ -63,6 +63,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -92,6 +93,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -236,6 +238,7 @@
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0191-number-of-1-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -434,6 +437,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -472,6 +476,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
