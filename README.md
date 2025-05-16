@@ -262,6 +262,7 @@
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
