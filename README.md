@@ -109,6 +109,7 @@
 | [0264-ugly-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -169,6 +170,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
