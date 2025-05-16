@@ -58,6 +58,7 @@
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -269,6 +270,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
