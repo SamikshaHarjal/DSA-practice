@@ -96,6 +96,7 @@
 | [0223-rectangle-area](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -110,6 +111,7 @@
 | [0050-powx-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -264,6 +267,7 @@
 | [0118-pascals-triangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
