@@ -119,6 +119,7 @@
 | [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
@@ -159,6 +160,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0541-reverse-string-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
