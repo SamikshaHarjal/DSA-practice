@@ -47,6 +47,7 @@
 | [0238-product-of-array-except-self](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -245,6 +246,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -370,6 +373,7 @@
 | [0100-same-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 ## Bucket Sort
 |  |
 | ------- |
