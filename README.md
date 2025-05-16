@@ -136,6 +136,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
