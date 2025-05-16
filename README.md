@@ -53,6 +53,7 @@
 | [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -188,6 +189,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -498,6 +501,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Trie
 |  |
 | ------- |
