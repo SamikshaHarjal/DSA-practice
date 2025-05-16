@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -162,6 +163,7 @@
 | [0162-find-peak-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | [0191-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
