@@ -103,6 +103,7 @@
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
