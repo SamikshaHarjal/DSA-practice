@@ -72,6 +72,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0567-permutation-in-string) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -161,6 +162,7 @@
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0541-reverse-string-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0567-permutation-in-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -172,6 +174,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
