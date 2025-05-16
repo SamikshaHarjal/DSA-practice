@@ -51,6 +51,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -238,6 +239,7 @@
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
