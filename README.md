@@ -60,6 +60,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -93,6 +94,7 @@
 | [0069-sqrtx](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
@@ -182,6 +184,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
