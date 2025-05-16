@@ -43,6 +43,7 @@
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -61,6 +62,7 @@
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -141,6 +143,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
