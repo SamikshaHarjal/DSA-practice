@@ -57,6 +57,7 @@
 | [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
+| [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -82,6 +83,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
+| [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -135,6 +137,7 @@
 | [0633-sum-of-square-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0670-maximum-swap) |
+| [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
@@ -342,6 +345,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
+| [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 ## Backtracking
 |  |
 | ------- |
