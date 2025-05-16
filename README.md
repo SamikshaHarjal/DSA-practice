@@ -111,6 +111,7 @@
 | [0038-count-and-say](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
@@ -239,6 +240,7 @@
 | [0062-unique-paths](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0152-maximum-product-subarray) |
