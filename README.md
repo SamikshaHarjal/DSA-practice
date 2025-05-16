@@ -129,6 +129,7 @@
 | [0593-valid-square](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
@@ -251,6 +252,7 @@
 | [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0670-maximum-swap) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
