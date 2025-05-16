@@ -48,12 +48,4 @@ class Solution {
         return true;
     }
 
-    public static void main(String args[]) {
-        Solution ll = new Solution();
-        ll.addFirst(1);
-        ll.addFirst(2);
-        ll.addFirst(2);
-        ll.addFirst(1);
-        System.out.println(ll.isPalindrome(head));
-    }
 }
