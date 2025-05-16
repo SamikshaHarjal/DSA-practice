@@ -108,6 +108,7 @@
 | [0263-ugly-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -125,6 +126,7 @@
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
