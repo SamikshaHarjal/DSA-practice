@@ -354,6 +354,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 | [0386-lexicographical-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
