@@ -59,6 +59,7 @@
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -348,6 +349,7 @@
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [0067-add-binary](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 ## Memoization
 |  |
 | ------- |
