@@ -61,6 +61,7 @@
 | [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -88,6 +89,7 @@
 | [0822-unique-morse-code-words](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0906-walking-robot-simulation) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -399,6 +401,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0906-walking-robot-simulation) |
 ## Memoization
 |  |
 | ------- |
