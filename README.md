@@ -50,6 +50,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -227,6 +228,7 @@
 | [0011-container-with-most-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
@@ -241,6 +243,7 @@
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -453,4 +456,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0386-lexicographical-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
