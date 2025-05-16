@@ -94,6 +94,7 @@
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -105,6 +106,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0190-reverse-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
