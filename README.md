@@ -92,6 +92,7 @@
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -116,6 +117,7 @@
 | [0125-valid-palindrome](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -196,6 +198,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
