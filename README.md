@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0070-climbing-stairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0152-maximum-product-subarray) |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0101-symmetric-tree) |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0101-symmetric-tree) |
@@ -297,6 +301,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
