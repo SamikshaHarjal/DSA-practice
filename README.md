@@ -142,6 +142,7 @@
 | [0187-repeated-dna-sequences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0344-reverse-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0344-reverse-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -202,6 +203,7 @@
 | [0202-happy-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
