@@ -43,6 +43,7 @@
 | [0169-majority-element](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
@@ -387,6 +388,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
@@ -491,6 +493,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -542,6 +545,7 @@
 | [0100-same-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -615,6 +619,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
