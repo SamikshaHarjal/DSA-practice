@@ -70,6 +70,7 @@
 | [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -434,6 +435,7 @@
 | [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0921-spiral-matrix-iii) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## Memoization
 |  |
 | ------- |
