@@ -67,6 +67,7 @@
 | [0952-word-subsets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -281,6 +282,7 @@
 | [0868-push-dominoes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -414,6 +417,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
 ## Simulation
 |  |
 | ------- |
