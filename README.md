@@ -139,6 +139,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -210,6 +211,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
