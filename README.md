@@ -78,6 +78,7 @@
 | [1137-height-checker](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -176,6 +177,7 @@
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -456,6 +458,7 @@
 | [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -650,6 +653,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -686,6 +690,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 ## Iterator
 |  |
 | ------- |
