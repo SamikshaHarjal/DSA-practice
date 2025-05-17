@@ -97,6 +97,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0952-word-subsets) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -470,6 +471,7 @@
 | [0820-find-eventual-safe-states](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Tree
 |  |
 | ------- |
@@ -574,11 +576,13 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
