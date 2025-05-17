@@ -185,6 +185,7 @@
 | [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1362-airplane-seat-assignment-probability](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1362-airplane-seat-assignment-probability) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1395-minimum-time-visiting-all-points) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
