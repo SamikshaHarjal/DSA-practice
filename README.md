@@ -189,6 +189,7 @@
 | [0326-power-of-three](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1197-parsing-a-boolean-expression) |
 ## String
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1197-parsing-a-boolean-expression) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -356,6 +358,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1197-parsing-a-boolean-expression) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
