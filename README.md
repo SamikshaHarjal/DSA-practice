@@ -68,6 +68,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -283,6 +284,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
