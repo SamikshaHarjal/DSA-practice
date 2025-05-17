@@ -89,6 +89,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -199,6 +200,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1448-maximum-69-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -703,6 +705,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -714,6 +717,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -762,4 +766,8 @@
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1362-airplane-seat-assignment-probability) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
