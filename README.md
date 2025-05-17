@@ -447,6 +447,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -468,6 +469,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
+| [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,12 +488,14 @@
 | [0543-diameter-of-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
