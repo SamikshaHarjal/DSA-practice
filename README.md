@@ -72,6 +72,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1063-best-sightseeing-pair](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -416,6 +417,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1063-best-sightseeing-pair) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
