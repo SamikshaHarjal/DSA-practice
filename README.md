@@ -212,6 +212,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -471,6 +472,7 @@
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +521,7 @@
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
