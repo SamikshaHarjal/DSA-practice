@@ -87,6 +87,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -126,6 +127,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -285,6 +287,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0633-sum-of-square-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +337,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1002-maximum-width-ramp](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -373,6 +377,7 @@
 | [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
