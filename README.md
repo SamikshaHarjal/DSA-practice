@@ -158,6 +158,7 @@
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1484-linked-list-in-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -569,6 +570,7 @@
 | [1254-deepest-leaves-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -605,6 +607,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -634,6 +637,7 @@
 | [1254-deepest-leaves-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
