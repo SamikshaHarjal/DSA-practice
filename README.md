@@ -118,6 +118,7 @@
 | [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -522,6 +523,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -554,6 +556,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -580,6 +583,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -605,6 +609,7 @@
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -652,6 +657,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
