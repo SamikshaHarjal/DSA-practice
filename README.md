@@ -449,6 +449,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -472,6 +473,7 @@
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -491,6 +493,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
