@@ -365,6 +365,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -537,6 +538,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -572,6 +574,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -600,6 +603,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -608,6 +612,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
