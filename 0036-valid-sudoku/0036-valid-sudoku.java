@@ -1,34 +1,34 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        for (int i = 0; i < board.length; i++) {
-            HashSet<Character> set = new HashSet<>();
-            for (int j = 0; j < board[0].length; j++) {
-                if (board[i][j] != '.' && !set.add(board[i][j])) {
+        HashSet<Character>[] rows = new HashSet[9];
+        HashSet<Character>[] cols = new HashSet[9];
+        HashSet<Character>[] boxes = new HashSet[9];
+
+        for (int i = 0; i < 9; i++) {
+            rows[i] = new HashSet<>();
+            cols[i] = new HashSet<>();
+            boxes[i] = new HashSet<>();
+        }
+
+        for (int r = 0; r < 9; r++) {
+            for (int c = 0; c < 9; c++) {
+                if (board[r][c] == '.') {
+                    continue;
+                }
+
+                char value = board[r][c];
+                int boxIndex = (r / 3) * 3 + (c / 3);
+
+                if (rows[r].contains(value) || cols[c].contains(value) || boxes[boxIndex].contains(value)) {
                     return false;
                 }
-            }
-        }
-        for (int i = 0; i < board.length; i++) {
-            HashSet<Character> set = new HashSet<>();
-            for (int j = 0; j < board[0].length; j++) {
-                if (board[j][i] != '.' && !set.add(board[j][i])) {
-                    return false;
-                }
-            }
-        }
-        for (int xl = 0; xl < 9; xl += 3) {
-            for (int yl = 0; yl < 9; yl += 3) {
-                HashSet<Character> set = new HashSet<>();
-                for (int i = xl; i < xl + 3; i++) {
-                    for (int j = yl; j < yl + 3; j++) {
-                        if (board[i][j] != '.' && !set.add(board[i][j])) {
-                            return false;
-                        }
-                    }
-                }
+
+                rows[r].add(value);
+                cols[c].add(value);
+                boxes[boxIndex].add(value);
             }
         }
 
-        return true;
+        return true;        
     }
 }
