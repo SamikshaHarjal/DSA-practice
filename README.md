@@ -162,6 +162,7 @@
 | [0670-maximum-swap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -418,6 +419,7 @@
 | [1013-fibonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -611,4 +613,12 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0820-find-eventual-safe-states) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
