@@ -348,6 +348,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
@@ -484,6 +485,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -540,6 +542,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -555,6 +558,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -615,6 +619,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
 ## Queue
@@ -661,4 +666,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1086-divisor-game) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
