@@ -193,6 +193,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
@@ -426,6 +427,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
