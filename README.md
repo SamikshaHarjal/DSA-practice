@@ -200,6 +200,7 @@
 | [0868-push-dominoes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -287,6 +288,7 @@
 | [0670-maximum-swap](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
@@ -317,6 +319,7 @@
 | [0234-palindrome-linked-list](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
