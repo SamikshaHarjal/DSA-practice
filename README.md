@@ -82,6 +82,7 @@
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1395-minimum-time-visiting-all-points) |
+| [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -429,6 +430,7 @@
 | [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -559,6 +561,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -612,6 +615,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -628,6 +632,7 @@
 | [1160-letter-tile-possibilities](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Database
@@ -690,6 +695,7 @@
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
