@@ -66,6 +66,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -98,6 +99,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -373,6 +375,7 @@
 | [0870-magic-squares-in-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 ## Backtracking
 |  |
 | ------- |
@@ -474,6 +477,7 @@
 | [0975-range-sum-of-bst](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -514,6 +518,7 @@
 | [0684-redundant-connection](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
+| [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -580,6 +585,7 @@
 | [0684-redundant-connection](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 ## Graph
 |  |
 | ------- |
