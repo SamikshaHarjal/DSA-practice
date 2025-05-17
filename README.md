@@ -76,6 +76,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -111,6 +112,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1160-letter-tile-possibilities](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1160-letter-tile-possibilities) |
+| [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
@@ -341,6 +343,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 ## Stack
 |  |
 | ------- |
@@ -645,6 +648,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 ## Union Find
 |  |
 | ------- |
