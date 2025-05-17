@@ -87,6 +87,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
@@ -383,6 +384,7 @@
 | [1217-relative-sort-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
@@ -439,6 +441,7 @@
 | [0861-flipping-an-image](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -671,6 +674,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1396-count-servers-that-communicate](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1396-count-servers-that-communicate) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
