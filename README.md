@@ -235,6 +235,7 @@
 | [1170-shortest-common-supersequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -330,6 +331,7 @@
 | [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
@@ -613,6 +615,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Database
