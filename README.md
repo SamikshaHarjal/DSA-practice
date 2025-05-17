@@ -81,6 +81,7 @@
 | [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1395-minimum-time-visiting-all-points) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -181,6 +182,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1362-airplane-seat-assignment-probability](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1362-airplane-seat-assignment-probability) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1395-minimum-time-visiting-all-points) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -651,6 +653,7 @@
 | ------- |
 | [0223-rectangle-area](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0593-valid-square) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1395-minimum-time-visiting-all-points) |
 ## Design
 |  |
 | ------- |
