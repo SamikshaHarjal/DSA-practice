@@ -94,6 +94,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1503-reducing-dishes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1511-count-number-of-teams) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -378,6 +379,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1503-reducing-dishes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
@@ -403,6 +405,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1503-reducing-dishes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1503-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -524,6 +527,7 @@
 | [1240-stone-game-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1240-stone-game-ii) |
 | [1362-airplane-seat-assignment-probability](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1503-reducing-dishes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1511-count-number-of-teams) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
