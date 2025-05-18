@@ -97,6 +97,7 @@
 | [1503-reducing-dishes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1524-string-matching-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
