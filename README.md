@@ -279,6 +279,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1524-string-matching-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -500,6 +501,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Dynamic Programming
 |  |
 | ------- |
