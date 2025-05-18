@@ -281,6 +281,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -763,6 +764,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Trie
 |  |
 | ------- |
