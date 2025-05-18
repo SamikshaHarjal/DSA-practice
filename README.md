@@ -96,6 +96,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -278,6 +279,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1524-string-matching-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1524-string-matching-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/3379-score-of-a-string) |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1524-string-matching-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
