@@ -271,6 +271,7 @@
 | [1170-shortest-common-supersequence](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1205-defanging-an-ip-address) |
+| [1304-longest-happy-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -376,6 +377,7 @@
 | [0890-lemonade-change](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1304-longest-happy-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -433,6 +435,7 @@
 | [0264-ugly-number-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaHarjal/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SamikshaHarjal/DSA-practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
